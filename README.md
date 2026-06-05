@@ -4,4 +4,4 @@ This project helped me understand the fundamentals of website structure and gave
 
 ## Screenshot
 
-![Portfolio Screenshot](screenshot.png)
+![Portfolio Screenshot](Screenshot.png)
